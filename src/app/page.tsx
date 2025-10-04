@@ -22,7 +22,7 @@ export default function Home() {
               <a href="#insights" className="text-gray-700 hover:text-slate-900 transition-all duration-300 font-medium">Insights</a>
               <a href="#services" className="text-gray-700 hover:text-slate-900 transition-all duration-300 font-medium">Services</a>
               <a href="#process" className="text-gray-700 hover:text-slate-900 transition-all duration-300 font-medium">Process</a>
-              <a href="https://calendly.com/hello-userdecipherer/30min" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-r from-slate-900 to-slate-700 text-white px-8 py-3 rounded-full hover:from-slate-800 hover:to-slate-600 transition-all duration-300 font-semibold shadow-lg hover:shadow-xl">
+              <a href="https://calendly.com/rita-userdecipherer/30min" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-r from-slate-900 to-slate-700 text-white px-8 py-3 rounded-full hover:from-slate-800 hover:to-slate-600 transition-all duration-300 font-semibold shadow-lg hover:shadow-xl">
                 Book a Call
               </a>
             </nav>
@@ -43,7 +43,7 @@ export default function Home() {
             Get high-quality user research that&apos;s accessible, fast, and actionable.
           </p>
           <div className="flex flex-col sm:flex-row gap-6 justify-center">
-            <a href="https://calendly.com/hello-userdecipherer/30min" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-r from-slate-900 to-slate-700 text-white px-10 py-5 rounded-full text-lg font-semibold hover:from-slate-800 hover:to-slate-600 transition-all duration-300 shadow-xl hover:shadow-2xl transform hover:-translate-y-1">
+            <a href="https://calendly.com/rita-userdecipherer/30min" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-r from-slate-900 to-slate-700 text-white px-10 py-5 rounded-full text-lg font-semibold hover:from-slate-800 hover:to-slate-600 transition-all duration-300 shadow-xl hover:shadow-2xl transform hover:-translate-y-1">
               Book Free Consultation
             </a>
             <a href="#insights" className="border-2 border-slate-200 text-slate-700 px-10 py-5 rounded-full text-lg font-semibold hover:border-slate-300 hover:bg-slate-50 transition-all duration-300">
@@ -311,7 +311,7 @@ export default function Home() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="https://calendly.com/hello-userdecipherer/30min"
+              href="https://calendly.com/rita-userdecipherer/30min"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-white text-blue-600 px-8 py-4 rounded-lg text-lg font-semibold hover:bg-gray-50 transition-colors"
@@ -319,10 +319,10 @@ export default function Home() {
               Schedule Free Consultation
             </a>
             <a
-              href="mailto:hello@userdecipherer.com"
+              href="mailto:rita@userdecipherer.com"
               className="border border-white text-white px-8 py-4 rounded-lg text-lg font-semibold hover:bg-white hover:text-blue-600 transition-colors"
             >
-              Email Us: hello@userdecipherer.com
+              Email Us: rita@userdecipherer.com
             </a>
           </div>
           <p className="text-blue-200 text-sm mt-4">
